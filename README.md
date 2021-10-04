@@ -6,7 +6,7 @@ A Simple URL Uploader Bot. URL Upload to Telegram Media or File Bot with Custom 
 Join Support Group [updates channel](https://t.me/PremiumAppsAccountFree).
 
 #### Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itspriyo/URL-Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itspriyo/URL_Uploader)
 
 #### Credits
 
