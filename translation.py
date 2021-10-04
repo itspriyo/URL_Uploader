@@ -29,7 +29,7 @@ URL | filename | username | password"""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """Hey am URL Uploader bot..
+    HELP_USER = """Hey i am URL Uploader bot..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -39,7 +39,7 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-<b>Join :- @fnprojects</b>"""
+<b>Join :- @PremiumNetworkCommunity</b>"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
