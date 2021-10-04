@@ -10,5 +10,5 @@ Join Support Group [updates channel](https://t.me/PremiumAppsAccountFree).
 
 #### Credits
 
-###### • [Its Priyo](https://t.me/itspriyo) for his [AnyDLBot](https://github.com/Spechide/AnyDLBot) Repository.
+###### • [SpecHide](https://t.me/Spechide) for his [AnyDLBot](https://github.com/Spechide/AnyDLBot) Repository.
 ###### • [Dan](https://github.com/delivrance) for his [Pyrogram](http://www.pyrogram.org/) Library.
